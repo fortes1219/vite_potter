@@ -106,6 +106,9 @@ module.exports = {
       colors: {
         ...tokens
       },
+      bg: {
+        ...tokens
+      },
       borderColor: { ...tokens },
     },
   },
